@@ -1,5 +1,6 @@
 # Image-angle-correction-using-Deep-learning
-https://colab.research.google.com/drive/1tI2F-_jbBf_7bd4ARFQo4HUJz--gqRIY?usp=sharing
+Notebook link - https://colab.research.google.com/drive/1tI2F-_jbBf_7bd4ARFQo4HUJz--gqRIY?usp=sharing
+
 This code corrects the orientation or angle of images to make it upright using CNN and OpenCV.
 
 [GoogleStreet View](http://crcv.ucf.edu/data/GMCP_Geolocalization/) dataset is used for training. 
